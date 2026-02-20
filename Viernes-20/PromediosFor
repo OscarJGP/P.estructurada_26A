@@ -1,0 +1,31 @@
+#include <stdio.h>
+
+float promedio (int n){
+    float suma=0;
+    int materia;
+    for (int i=0; i<n; i++){
+        printf ("Ingresa el promedio de tu %i materia \n ", i+1);
+        scanf ("%d", &materia);
+        if (materia >= 0 && materia <= 100){
+            suma += materia;
+        } else {
+            printf ("Calificacion no valida, vuelve a intentarlo \n");
+            return -i ;
+        }
+    }
+    return suma/n;
+}
+
+int main (){
+    int n=0;
+
+    do {
+        printf ("Ingresa el numero de materias que cursaste, ingresa 0 para salir \n");
+        scanf ("%d", &n);
+        float pro = promedio (n);
+        if (pro > 0){
+            printf ("Tu promedio es %.2f\n", pro);
+        } 
+    } while (n!=0);
+    printf ("Adios usuario :/ \n");
+}
