@@ -3,3 +3,4 @@ hizo un salto esperado de 96 espacios de memoria y asi entendimos que un arreglo
 
 
 <img width="366" height="102" alt="image" src="https://github.com/user-attachments/assets/b3508e6e-88ec-4df3-b78d-1797da7f008f" />
+<img width="493" height="264" alt="Captura Osc" src="https://github.com/user-attachments/assets/1a556e8b-1cd7-4557-8565-43db123d48f0" />
