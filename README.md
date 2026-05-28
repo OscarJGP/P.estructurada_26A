@@ -10,7 +10,7 @@
 Repositorio de actividades y evidencias desarrolladas durante el curso de
 Programación Estructurada en lenguaje C.
 
-## Temas trabajados (revisen los temas de cada actividad), Ejemplo:
+## Temas trabajados durante el semestre:
 - Tipos de datos
 - Operadores
 - Condicionales
