@@ -1,9 +1,9 @@
 # Programación Estructurada
 
-Nombre del estudiante:Oscar Josue Gutierrez Pintor
-Código: 325019326
-Sección: 26A-D04
-Profesor:Jorge Ernesto Lopez Arce Delgado
+**Nombre del estudiante:** Oscar Josue Gutierrez Pintor
+**Código:** 325019326
+**Sección:** 26A-D04
+**Profesor:** Jorge Ernesto Lopez Arce Delgado
 
 ## Descripción
 
